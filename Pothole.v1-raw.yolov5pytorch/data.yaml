@@ -1,5 +1,0 @@
-names:
-- pothole
-nc: 1
-train: ./Pothole.v1-raw.yolov5pytorch/dataset/train.txt
-val: ./Pothole.v1-raw.yolov5pytorch/dataset/val.txt
