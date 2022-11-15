@@ -7,8 +7,8 @@ names:
 - Box
 - Stones on road
 - Pothole on road
-- Filled pothole"
+- Filled pothole
 - Manhole
 nc: 10
-train: ../data/Pothole_data/train.txt
-val: ../data/Pothole_data/val.txt
+train: train.txt
+val: val.txt
