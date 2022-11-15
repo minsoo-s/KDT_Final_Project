@@ -1,0 +1,195 @@
+{
+	"info": {
+		"description": "V5F_HY_9901_20210112_114725_N_CH1_Seoul_Sun_Mainroad_Day_23180_BBOX JSON file",
+		"url": "",
+		"version": "1.0",
+		"year": 2021,
+		"contributor": "Konkuk_university",
+		"date_created": "2021/05/12"
+	},
+	"images": {
+		"file_name": "V5F_HY_9901_20210112_114725_N_CH1_Seoul_Sun_Mainroad_Day_23180.png",
+		"height": 720,
+		"width": 1280,
+		"id": 1
+	},
+	"annotations": [
+		{
+			"segmentation": [],
+			"polyline": [],
+			"image_id": 1,
+			"bbox": [
+				360.8365019011407,
+				261.9771863117871,
+				23.193916349809857,
+				57.41444866920153
+			],
+			"category_id": 5,
+			"area": 1331.6659197039123,
+			"is_crowd": 0,
+			"id": 1
+		},
+		{
+			"segmentation": [],
+			"polyline": [],
+			"image_id": 1,
+			"bbox": [
+				409.5057034220533,
+				260.4562737642586,
+				17.11026615969581,
+				52.85171102661593
+			],
+			"category_id": 5,
+			"area": 904.3068426607285,
+			"is_crowd": 0,
+			"id": 2
+		},
+		{
+			"segmentation": [],
+			"polyline": [],
+			"image_id": 1,
+			"bbox": [
+				434.9809885931559,
+				260.8365019011407,
+				19.011406844106432,
+				46.38783269961976
+			],
+			"category_id": 5,
+			"area": 881.8979600688152,
+			"is_crowd": 0,
+			"id": 3
+		},
+		{
+			"segmentation": [],
+			"polyline": [],
+			"image_id": 1,
+			"bbox": [
+				458.5551330798479,
+				259.69581749049433,
+				17.870722433460116,
+				42.58555133079847
+			],
+			"category_id": 5,
+			"area": 761.0345675085674,
+			"is_crowd": 0,
+			"id": 4
+		},
+		{
+			"segmentation": [],
+			"polyline": [],
+			"image_id": 1,
+			"bbox": [
+				485.5513307984791,
+				259.31558935361215,
+				17.87072243346006,
+				41.82509505703422
+			],
+			"category_id": 5,
+			"area": 747.4446645173408,
+			"is_crowd": 0,
+			"id": 5
+		},
+		{
+			"segmentation": [],
+			"polyline": [],
+			"image_id": 1,
+			"bbox": [
+				487.83269961977186,
+				415.2091254752852,
+				123.19391634980995,
+				12.547528517110266
+			],
+			"category_id": 10,
+			"area": 1545.779178533737,
+			"is_crowd": 0,
+			"id": 6
+		},
+		{
+			"segmentation": [],
+			"polyline": [],
+			"image_id": 1,
+			"bbox": [
+				886.2660944206008,
+				413.7339055793991,
+				111.58798283261808,
+				21.030042918454967
+			],
+			"category_id": 10,
+			"area": 2346.7000681537743,
+			"is_crowd": 0,
+			"id": 7
+		},
+		{
+			"segmentation": [],
+			"polyline": [],
+			"image_id": 1,
+			"bbox": [
+				904.7210300429184,
+				310.7296137339056,
+				67.38197424892701,
+				49.35622317596568
+			],
+			"category_id": 6,
+			"area": 3325.719759067214,
+			"is_crowd": 0,
+			"id": 8
+		},
+		{
+			"segmentation": [],
+			"polyline": [],
+			"image_id": 1,
+			"bbox": [
+				1193.984962406015,
+				187.2180451127819,
+				64.66165413533827,
+				166.9172932330827
+			],
+			"category_id": 2,
+			"area": 10793.148284244431,
+			"is_crowd": 0,
+			"id": 9
+		}
+	],
+	"categories": [
+		{
+			"id": 1,
+			"name": "Animals(Dolls)"
+		},
+		{
+			"id": 2,
+			"name": "Person"
+		},
+		{
+			"id": 3,
+			"name": "Garbage bag & sacks"
+		},
+		{
+			"id": 4,
+			"name": "Construction signs & Parking prohibited board"
+		},
+		{
+			"id": 5,
+			"name": "Traffic cone"
+		},
+		{
+			"id": 6,
+			"name": "Box"
+		},
+		{
+			"id": 7,
+			"name": "Stones on road"
+		},
+		{
+			"id": 8,
+			"name": "Pothole on road"
+		},
+		{
+			"id": 9,
+			"name": "Filled pothole"
+		},
+		{
+			"id": 10,
+			"name": "Manhole"
+		}
+	]
+}

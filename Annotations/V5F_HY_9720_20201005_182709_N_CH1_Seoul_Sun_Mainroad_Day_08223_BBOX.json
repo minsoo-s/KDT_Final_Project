@@ -1,0 +1,90 @@
+{
+	"info": {
+		"description": "V5F_HY_9720_20201005_182709_N_CH1_Seoul_Sun_Mainroad_Day_08223_BBOX JSON file",
+		"url": "",
+		"version": "1.0",
+		"year": 2021,
+		"contributor": "Konkuk_university",
+		"date_created": "2021/05/12"
+	},
+	"images": {
+		"file_name": "V5F_HY_9720_20201005_182709_N_CH1_Seoul_Sun_Mainroad_Day_08223.png",
+		"height": 720,
+		"width": 1280,
+		"id": 1
+	},
+	"annotations": [
+		{
+			"segmentation": [],
+			"polyline": [],
+			"image_id": 1,
+			"bbox": [
+				903.939393939394,
+				313.3333333333333,
+				89.09090909090912,
+				139.39393939393938
+			],
+			"category_id": 5,
+			"area": 12418.732782369148,
+			"is_crowd": 0,
+			"id": 1
+		},
+		{
+			"segmentation": [],
+			"polyline": [],
+			"image_id": 1,
+			"bbox": [
+				706.4388961892247,
+				262.6806833114323,
+				27.46386333771352,
+				38.37056504599212
+			],
+			"category_id": 5,
+			"area": 1053.8039546139748,
+			"is_crowd": 0,
+			"id": 2
+		}
+	],
+	"categories": [
+		{
+			"id": 1,
+			"name": "Animals(Dolls)"
+		},
+		{
+			"id": 2,
+			"name": "Person"
+		},
+		{
+			"id": 3,
+			"name": "Garbage bag & sacks"
+		},
+		{
+			"id": 4,
+			"name": "Construction signs & Parking prohibited board"
+		},
+		{
+			"id": 5,
+			"name": "Traffic cone"
+		},
+		{
+			"id": 6,
+			"name": "Box"
+		},
+		{
+			"id": 7,
+			"name": "Stones on road"
+		},
+		{
+			"id": 8,
+			"name": "Pothole on road"
+		},
+		{
+			"id": 9,
+			"name": "Filled pothole"
+		},
+		{
+			"id": 10,
+			"name": "Manhole"
+		}
+	]
+}

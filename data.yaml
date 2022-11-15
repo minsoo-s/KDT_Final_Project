@@ -1,0 +1,14 @@
+names:
+- Animals(Dolls)
+- Person
+- Garbage bag & sacks
+- Construction signs & Parking prohibited board
+- Traffic cone
+- Box
+- Stones on road
+- Pothole on road
+- Filled pothole"
+- Manhole
+nc: 10
+train: ../data/Pothole_data/train.txt
+val: ../data/Pothole_data/val.txt

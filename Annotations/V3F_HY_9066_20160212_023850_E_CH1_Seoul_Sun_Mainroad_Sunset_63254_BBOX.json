@@ -1,0 +1,120 @@
+{
+	"info": {
+		"description": "V3F_HY_9066_20160212_023850_E_CH1_Seoul_Sun_Mainroad_Sunset_63254_BBOX JSON file",
+		"url": "",
+		"version": "1.0",
+		"year": 2021,
+		"contributor": "Konkuk_university",
+		"date_created": "2021/05/12"
+	},
+	"images": {
+		"file_name": "V3F_HY_9066_20160212_023850_E_CH1_Seoul_Sun_Mainroad_Sunset_63254.png",
+		"height": 720,
+		"width": 1280,
+		"id": 1
+	},
+	"annotations": [
+		{
+			"segmentation": [],
+			"polyline": [],
+			"image_id": 1,
+			"bbox": [
+				859.5070422535211,
+				0,
+				36.97183098591552,
+				109.50704225352112
+			],
+			"category_id": 2,
+			"area": 4048.675857964692,
+			"is_crowd": 0,
+			"id": 1
+		},
+		{
+			"segmentation": [],
+			"polyline": [],
+			"image_id": 1,
+			"bbox": [
+				814.9584487534627,
+				0,
+				37.39612188365652,
+				96.67590027700832
+			],
+			"category_id": 2,
+			"area": 3615.3037499712264,
+			"is_crowd": 0,
+			"id": 2
+		},
+		{
+			"segmentation": [],
+			"polyline": [],
+			"image_id": 1,
+			"bbox": [
+				254.01662049861497,
+				0,
+				54.57063711911357,
+				135.45706371191136
+			],
+			"category_id": 2,
+			"area": 7391.978269043362,
+			"is_crowd": 0,
+			"id": 3
+		},
+		{
+			"segmentation": [],
+			"polyline": [],
+			"image_id": 1,
+			"bbox": [
+				995.2054794520548,
+				33.56164383561644,
+				32.876712328766985,
+				33.105022831050235
+			],
+			"category_id": 3,
+			"area": 1088.3843122537019,
+			"is_crowd": 0,
+			"id": 4
+		}
+	],
+	"categories": [
+		{
+			"id": 1,
+			"name": "Animals(Dolls)"
+		},
+		{
+			"id": 2,
+			"name": "Person"
+		},
+		{
+			"id": 3,
+			"name": "Garbage bag & sacks"
+		},
+		{
+			"id": 4,
+			"name": "Construction signs & Parking prohibited board"
+		},
+		{
+			"id": 5,
+			"name": "Traffic cone"
+		},
+		{
+			"id": 6,
+			"name": "Box"
+		},
+		{
+			"id": 7,
+			"name": "Stones on road"
+		},
+		{
+			"id": 8,
+			"name": "Pothole on road"
+		},
+		{
+			"id": 9,
+			"name": "Filled pothole"
+		},
+		{
+			"id": 10,
+			"name": "Manhole"
+		}
+	]
+}

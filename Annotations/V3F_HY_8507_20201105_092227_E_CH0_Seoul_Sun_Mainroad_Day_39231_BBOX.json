@@ -1,0 +1,135 @@
+{
+	"info": {
+		"description": "V3F_HY_8507_20201105_092227_E_CH0_Seoul_Sun_Mainroad_Day_39231_BBOX JSON file",
+		"url": "",
+		"version": "1.0",
+		"year": 2021,
+		"contributor": "Konkuk_university",
+		"date_created": "2021/05/12"
+	},
+	"images": {
+		"file_name": "V3F_HY_8507_20201105_092227_E_CH0_Seoul_Sun_Mainroad_Day_39231.png",
+		"height": 720,
+		"width": 1281,
+		"id": 1
+	},
+	"annotations": [
+		{
+			"segmentation": [],
+			"polyline": [],
+			"image_id": 1,
+			"bbox": [
+				60.7485499580491,
+				23.36482690694196,
+				292.0664837392185,
+				393.60805430800616
+			],
+			"category_id": 2,
+			"area": 114959.7203931747,
+			"is_crowd": 0,
+			"id": 1
+		},
+		{
+			"segmentation": [],
+			"polyline": [],
+			"image_id": 1,
+			"bbox": [
+				420.19757669764664,
+				616.4526464343381,
+				113.59992625837543,
+				40.309651252972
+			],
+			"category_id": 10,
+			"area": 4579.17340983845,
+			"is_crowd": 0,
+			"id": 2
+		},
+		{
+			"segmentation": [],
+			"polyline": [],
+			"image_id": 1,
+			"bbox": [
+				562.2692054674366,
+				417.1372706673488,
+				159.32522916741345,
+				29.96272202324394
+			],
+			"category_id": 10,
+			"area": 4773.8175528328475,
+			"is_crowd": 0,
+			"id": 3
+		},
+		{
+			"segmentation": [],
+			"polyline": [],
+			"image_id": 1,
+			"bbox": [
+				830.8438808982274,
+				468.4147342532778,
+				204.07420986544764,
+				43.225494553984845
+			],
+			"category_id": 10,
+			"area": 8821.208647147667,
+			"is_crowd": 0,
+			"id": 4
+		},
+		{
+			"segmentation": [],
+			"polyline": [],
+			"image_id": 1,
+			"bbox": [
+				1111.1660275626468,
+				540.4247583638022,
+				169.83397243735317,
+				65.90545833704903
+			],
+			"category_id": 10,
+			"area": 11192.985794685512,
+			"is_crowd": 0,
+			"id": 5
+		}
+	],
+	"categories": [
+		{
+			"id": 1,
+			"name": "Animals(Dolls)"
+		},
+		{
+			"id": 2,
+			"name": "Person"
+		},
+		{
+			"id": 3,
+			"name": "Garbage bag & sacks"
+		},
+		{
+			"id": 4,
+			"name": "Construction signs & Parking prohibited board"
+		},
+		{
+			"id": 5,
+			"name": "Traffic cone"
+		},
+		{
+			"id": 6,
+			"name": "Box"
+		},
+		{
+			"id": 7,
+			"name": "Stones on road"
+		},
+		{
+			"id": 8,
+			"name": "Pothole on road"
+		},
+		{
+			"id": 9,
+			"name": "Filled pothole"
+		},
+		{
+			"id": 10,
+			"name": "Manhole"
+		}
+	]
+}

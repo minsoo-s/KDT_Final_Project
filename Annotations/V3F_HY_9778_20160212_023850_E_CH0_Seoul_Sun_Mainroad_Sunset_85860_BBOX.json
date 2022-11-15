@@ -1,0 +1,120 @@
+{
+	"info": {
+		"description": "V3F_HY_9778_20160212_023850_E_CH0_Seoul_Sun_Mainroad_Sunset_85860_BBOX JSON file",
+		"url": "",
+		"version": "1.0",
+		"year": 2021,
+		"contributor": "Konkuk_university",
+		"date_created": "2021/05/12"
+	},
+	"images": {
+		"file_name": "V3F_HY_9778_20160212_023850_E_CH0_Seoul_Sun_Mainroad_Sunset_85860.png",
+		"height": 720,
+		"width": 1280,
+		"id": 1
+	},
+	"annotations": [
+		{
+			"segmentation": [],
+			"polyline": [],
+			"image_id": 1,
+			"bbox": [
+				283.8095238095238,
+				189.52380952380952,
+				55.71428571428572,
+				129.52380952380952
+			],
+			"category_id": 2,
+			"area": 7216.326530612246,
+			"is_crowd": 0,
+			"id": 1
+		},
+		{
+			"segmentation": [],
+			"polyline": [],
+			"image_id": 1,
+			"bbox": [
+				687.1428571428571,
+				190,
+				47.61904761904759,
+				105.23809523809524
+			],
+			"category_id": 2,
+			"area": 5011.337868480723,
+			"is_crowd": 0,
+			"id": 2
+		},
+		{
+			"segmentation": [],
+			"polyline": [],
+			"image_id": 1,
+			"bbox": [
+				1181.8181818181818,
+				344.5454545454545,
+				88.18181818181824,
+				21.818181818181813
+			],
+			"category_id": 10,
+			"area": 1923.9669421487613,
+			"is_crowd": 0,
+			"id": 3
+		},
+		{
+			"segmentation": [],
+			"polyline": [],
+			"image_id": 1,
+			"bbox": [
+				829.2168674698795,
+				186.7469879518072,
+				29.819277108433653,
+				77.71084337349399
+			],
+			"category_id": 2,
+			"area": 2317.281172884302,
+			"is_crowd": 0,
+			"id": 4
+		}
+	],
+	"categories": [
+		{
+			"id": 1,
+			"name": "Animals(Dolls)"
+		},
+		{
+			"id": 2,
+			"name": "Person"
+		},
+		{
+			"id": 3,
+			"name": "Garbage bag & sacks"
+		},
+		{
+			"id": 4,
+			"name": "Construction signs & Parking prohibited board"
+		},
+		{
+			"id": 5,
+			"name": "Traffic cone"
+		},
+		{
+			"id": 6,
+			"name": "Box"
+		},
+		{
+			"id": 7,
+			"name": "Stones on road"
+		},
+		{
+			"id": 8,
+			"name": "Pothole on road"
+		},
+		{
+			"id": 9,
+			"name": "Filled pothole"
+		},
+		{
+			"id": 10,
+			"name": "Manhole"
+		}
+	]
+}

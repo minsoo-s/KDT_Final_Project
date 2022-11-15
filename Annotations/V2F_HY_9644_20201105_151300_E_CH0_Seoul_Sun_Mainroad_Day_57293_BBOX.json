@@ -1,0 +1,120 @@
+{
+	"info": {
+		"description": "V2F_HY_9644_20201105_151300_E_CH0_Seoul_Sun_Mainroad_Day_57293_BBOX JSON file",
+		"url": "",
+		"version": "1.0",
+		"year": 2021,
+		"contributor": "Konkuk_university",
+		"date_created": "2021/05/12"
+	},
+	"images": {
+		"file_name": "V2F_HY_9644_20201105_151300_E_CH0_Seoul_Sun_Mainroad_Day_57293.png",
+		"height": 720,
+		"width": 1281,
+		"id": 1
+	},
+	"annotations": [
+		{
+			"segmentation": [],
+			"polyline": [],
+			"image_id": 1,
+			"bbox": [
+				39.32291666666667,
+				465.625,
+				153.90625,
+				26.5625
+			],
+			"category_id": 10,
+			"area": 4088.134765625,
+			"is_crowd": 0,
+			"id": 1
+		},
+		{
+			"segmentation": [],
+			"polyline": [],
+			"image_id": 1,
+			"bbox": [
+				191.66666666666663,
+				494.2307692307692,
+				18.58974358974359,
+				16.025641025640994
+			],
+			"category_id": 8,
+			"area": 297.91255752794154,
+			"is_crowd": 0,
+			"id": 2
+		},
+		{
+			"segmentation": [],
+			"polyline": [],
+			"image_id": 1,
+			"bbox": [
+				398.71794871794873,
+				491.66666666666663,
+				15.384615384615358,
+				8.974358974359006
+			],
+			"category_id": 8,
+			"area": 138.0670611439845,
+			"is_crowd": 0,
+			"id": 3
+		},
+		{
+			"segmentation": [],
+			"polyline": [],
+			"image_id": 1,
+			"bbox": [
+				379.48717948717945,
+				446.79487179487177,
+				14.102564102564145,
+				18.58974358974359
+			],
+			"category_id": 8,
+			"area": 262.1630506245899,
+			"is_crowd": 0,
+			"id": 4
+		}
+	],
+	"categories": [
+		{
+			"id": 1,
+			"name": "Animals(Dolls)"
+		},
+		{
+			"id": 2,
+			"name": "Person"
+		},
+		{
+			"id": 3,
+			"name": "Garbage bag & sacks"
+		},
+		{
+			"id": 4,
+			"name": "Construction signs & Parking prohibited board"
+		},
+		{
+			"id": 5,
+			"name": "Traffic cone"
+		},
+		{
+			"id": 6,
+			"name": "Box"
+		},
+		{
+			"id": 7,
+			"name": "Stones on road"
+		},
+		{
+			"id": 8,
+			"name": "Pothole on road"
+		},
+		{
+			"id": 9,
+			"name": "Filled pothole"
+		},
+		{
+			"id": 10,
+			"name": "Manhole"
+		}
+	]
+}

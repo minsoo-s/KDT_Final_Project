@@ -1,0 +1,150 @@
+{
+	"info": {
+		"description": "V3F_HY_9591_20160212_015214_E_CH1_Seoul_Sun_Mainroad_Day_17156_BBOX JSON file",
+		"url": "",
+		"version": "1.0",
+		"year": 2021,
+		"contributor": "Konkuk_university",
+		"date_created": "2021/05/12"
+	},
+	"images": {
+		"file_name": "V3F_HY_9591_20160212_015214_E_CH1_Seoul_Sun_Mainroad_Day_17156.png",
+		"height": 720,
+		"width": 1281,
+		"id": 1
+	},
+	"annotations": [
+		{
+			"segmentation": [],
+			"polyline": [],
+			"image_id": 1,
+			"bbox": [
+				1103.647206005004,
+				360.04753961634697,
+				64.10341951626356,
+				32.05170975813172
+			],
+			"category_id": 9,
+			"area": 2054.624196839036,
+			"is_crowd": 0,
+			"id": 1
+		},
+		{
+			"segmentation": [],
+			"polyline": [],
+			"image_id": 1,
+			"bbox": [
+				325.859049207673,
+				144.23269391159295,
+				68.37698081734783,
+				19.23102585487908
+			],
+			"category_id": 10,
+			"area": 1314.9594859769868,
+			"is_crowd": 0,
+			"id": 2
+		},
+		{
+			"segmentation": [],
+			"polyline": [],
+			"image_id": 1,
+			"bbox": [
+				429.49291075896576,
+				0,
+				44.872393661384535,
+				125.00166805671392
+			],
+			"category_id": 2,
+			"area": 5609.124057370584,
+			"is_crowd": 0,
+			"id": 3
+		},
+		{
+			"segmentation": [],
+			"polyline": [],
+			"image_id": 1,
+			"bbox": [
+				467.9549624687239,
+				0,
+				47.009174311926586,
+				118.59132610508756
+			],
+			"category_id": 2,
+			"area": 5574.880320756591,
+			"is_crowd": 0,
+			"id": 4
+		},
+		{
+			"segmentation": [],
+			"polyline": [],
+			"image_id": 1,
+			"bbox": [
+				695.5221017514596,
+				1.0683903252710591,
+				47.009174311926586,
+				92.94995829858216
+			],
+			"category_id": 2,
+			"area": 4369.500791944356,
+			"is_crowd": 0,
+			"id": 5
+		},
+		{
+			"segmentation": [],
+			"polyline": [],
+			"image_id": 1,
+			"bbox": [
+				736.1209341117598,
+				0,
+				49.14595496246875,
+				95.08673894912428
+			],
+			"category_id": 2,
+			"area": 4673.1285899216855,
+			"is_crowd": 0,
+			"id": 6
+		}
+	],
+	"categories": [
+		{
+			"id": 1,
+			"name": "Animals(Dolls)"
+		},
+		{
+			"id": 2,
+			"name": "Person"
+		},
+		{
+			"id": 3,
+			"name": "Garbage bag & sacks"
+		},
+		{
+			"id": 4,
+			"name": "Construction signs & Parking prohibited board"
+		},
+		{
+			"id": 5,
+			"name": "Traffic cone"
+		},
+		{
+			"id": 6,
+			"name": "Box"
+		},
+		{
+			"id": 7,
+			"name": "Stones on road"
+		},
+		{
+			"id": 8,
+			"name": "Pothole on road"
+		},
+		{
+			"id": 9,
+			"name": "Filled pothole"
+		},
+		{
+			"id": 10,
+			"name": "Manhole"
+		}
+	]
+}

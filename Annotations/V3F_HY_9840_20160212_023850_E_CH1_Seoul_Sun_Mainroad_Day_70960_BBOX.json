@@ -1,0 +1,105 @@
+{
+	"info": {
+		"description": "V3F_HY_9840_20160212_023850_E_CH1_Seoul_Sun_Mainroad_Day_70960_BBOX JSON file",
+		"url": "",
+		"version": "1.0",
+		"year": 2021,
+		"contributor": "Konkuk_university",
+		"date_created": "2021/05/12"
+	},
+	"images": {
+		"file_name": "V3F_HY_9840_20160212_023850_E_CH1_Seoul_Sun_Mainroad_Day_70960.png",
+		"height": 720,
+		"width": 1280,
+		"id": 1
+	},
+	"annotations": [
+		{
+			"segmentation": [],
+			"polyline": [],
+			"image_id": 1,
+			"bbox": [
+				103.98230088495576,
+				9.73451327433628,
+				73.45132743362831,
+				175.2212389380531
+			],
+			"category_id": 2,
+			"area": 12870.232594564959,
+			"is_crowd": 0,
+			"id": 1
+		},
+		{
+			"segmentation": [],
+			"polyline": [],
+			"image_id": 1,
+			"bbox": [
+				310.61946902654864,
+				0,
+				65.48672566371681,
+				158.40707964601768
+			],
+			"category_id": 2,
+			"area": 10373.560967969299,
+			"is_crowd": 0,
+			"id": 2
+		},
+		{
+			"segmentation": [],
+			"polyline": [],
+			"image_id": 1,
+			"bbox": [
+				1018.3098591549297,
+				0,
+				24.64788732394368,
+				40.845070422535215
+			],
+			"category_id": 2,
+			"area": 1006.7446935131927,
+			"is_crowd": 0,
+			"id": 3
+		}
+	],
+	"categories": [
+		{
+			"id": 1,
+			"name": "Animals(Dolls)"
+		},
+		{
+			"id": 2,
+			"name": "Person"
+		},
+		{
+			"id": 3,
+			"name": "Garbage bag & sacks"
+		},
+		{
+			"id": 4,
+			"name": "Construction signs & Parking prohibited board"
+		},
+		{
+			"id": 5,
+			"name": "Traffic cone"
+		},
+		{
+			"id": 6,
+			"name": "Box"
+		},
+		{
+			"id": 7,
+			"name": "Stones on road"
+		},
+		{
+			"id": 8,
+			"name": "Pothole on road"
+		},
+		{
+			"id": 9,
+			"name": "Filled pothole"
+		},
+		{
+			"id": 10,
+			"name": "Manhole"
+		}
+	]
+}

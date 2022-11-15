@@ -1,0 +1,120 @@
+{
+	"info": {
+		"description": "V3F_HY_9721_20160212_024350_E_CH1_Seoul_Sun_Mainroad_Day_07368_BBOX JSON file",
+		"url": "",
+		"version": "1.0",
+		"year": 2021,
+		"contributor": "Konkuk_university",
+		"date_created": "2021/05/12"
+	},
+	"images": {
+		"file_name": "V3F_HY_9721_20160212_024350_E_CH1_Seoul_Sun_Mainroad_Day_07368.png",
+		"height": 720,
+		"width": 1280,
+		"id": 1
+	},
+	"annotations": [
+		{
+			"segmentation": [],
+			"polyline": [],
+			"image_id": 1,
+			"bbox": [
+				314.5017182130584,
+				667.4914089347079,
+				380.48109965635734,
+				52.50859106529208
+			],
+			"category_id": 8,
+			"area": 19978.52646992831,
+			"is_crowd": 0,
+			"id": 1
+		},
+		{
+			"segmentation": [],
+			"polyline": [],
+			"image_id": 1,
+			"bbox": [
+				371.7960088691796,
+				0,
+				81.59645232815961,
+				179.5121951219512
+			],
+			"category_id": 2,
+			"area": 14647.558271591579,
+			"is_crowd": 0,
+			"id": 2
+		},
+		{
+			"segmentation": [],
+			"polyline": [],
+			"image_id": 1,
+			"bbox": [
+				430.68736141906874,
+				0,
+				77.3392461197339,
+				173.8359201773836
+			],
+			"category_id": 2,
+			"area": 13444.339015049087,
+			"is_crowd": 0,
+			"id": 3
+		},
+		{
+			"segmentation": [],
+			"polyline": [],
+			"image_id": 1,
+			"bbox": [
+				794.6784922394678,
+				0,
+				39.02439024390242,
+				80.8869179600887
+			],
+			"category_id": 2,
+			"area": 3156.5626521010204,
+			"is_crowd": 0,
+			"id": 4
+		}
+	],
+	"categories": [
+		{
+			"id": 1,
+			"name": "Animals(Dolls)"
+		},
+		{
+			"id": 2,
+			"name": "Person"
+		},
+		{
+			"id": 3,
+			"name": "Garbage bag & sacks"
+		},
+		{
+			"id": 4,
+			"name": "Construction signs & Parking prohibited board"
+		},
+		{
+			"id": 5,
+			"name": "Traffic cone"
+		},
+		{
+			"id": 6,
+			"name": "Box"
+		},
+		{
+			"id": 7,
+			"name": "Stones on road"
+		},
+		{
+			"id": 8,
+			"name": "Pothole on road"
+		},
+		{
+			"id": 9,
+			"name": "Filled pothole"
+		},
+		{
+			"id": 10,
+			"name": "Manhole"
+		}
+	]
+}

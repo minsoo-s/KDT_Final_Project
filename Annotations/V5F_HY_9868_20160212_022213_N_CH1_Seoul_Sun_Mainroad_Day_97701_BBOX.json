@@ -1,0 +1,135 @@
+{
+	"info": {
+		"description": "V5F_HY_9868_20160212_022213_N_CH1_Seoul_Sun_Mainroad_Day_97701_BBOX JSON file",
+		"url": "",
+		"version": "1.0",
+		"year": 2021,
+		"contributor": "Konkuk_university",
+		"date_created": "2021/05/12"
+	},
+	"images": {
+		"file_name": "V5F_HY_9868_20160212_022213_N_CH1_Seoul_Sun_Mainroad_Day_97701.png",
+		"height": 720,
+		"width": 1281,
+		"id": 1
+	},
+	"annotations": [
+		{
+			"segmentation": [],
+			"polyline": [],
+			"image_id": 1,
+			"bbox": [
+				1104,
+				15.5,
+				177,
+				419
+			],
+			"category_id": 2,
+			"area": 74163,
+			"is_crowd": 0,
+			"id": 1
+		},
+		{
+			"segmentation": [],
+			"polyline": [],
+			"image_id": 1,
+			"bbox": [
+				1185,
+				276.5,
+				76,
+				124
+			],
+			"category_id": 3,
+			"area": 9424,
+			"is_crowd": 0,
+			"id": 2
+		},
+		{
+			"segmentation": [],
+			"polyline": [],
+			"image_id": 1,
+			"bbox": [
+				1099.3939393939393,
+				440.9090909090909,
+				181.5151515151515,
+				45.15151515151513
+			],
+			"category_id": 10,
+			"area": 8195.684113865927,
+			"is_crowd": 0,
+			"id": 3
+		},
+		{
+			"segmentation": [],
+			"polyline": [],
+			"image_id": 1,
+			"bbox": [
+				934.8484848484848,
+				243.9393939393939,
+				124.24242424242414,
+				24.49494949494948
+			],
+			"category_id": 10,
+			"area": 3043.3119069482664,
+			"is_crowd": 0,
+			"id": 4
+		},
+		{
+			"segmentation": [],
+			"polyline": [],
+			"image_id": 1,
+			"bbox": [
+				186.81948424068767,
+				206.8767908309455,
+				117.7650429799427,
+				17.765042979942706
+			],
+			"category_id": 10,
+			"area": 2092.1010500734824,
+			"is_crowd": 0,
+			"id": 5
+		}
+	],
+	"categories": [
+		{
+			"id": 1,
+			"name": "Animals(Dolls)"
+		},
+		{
+			"id": 2,
+			"name": "Person"
+		},
+		{
+			"id": 3,
+			"name": "Garbage bag & sacks"
+		},
+		{
+			"id": 4,
+			"name": "Construction signs & Parking prohibited board"
+		},
+		{
+			"id": 5,
+			"name": "Traffic cone"
+		},
+		{
+			"id": 6,
+			"name": "Box"
+		},
+		{
+			"id": 7,
+			"name": "Stones on road"
+		},
+		{
+			"id": 8,
+			"name": "Pothole on road"
+		},
+		{
+			"id": 9,
+			"name": "Filled pothole"
+		},
+		{
+			"id": 10,
+			"name": "Manhole"
+		}
+	]
+}
